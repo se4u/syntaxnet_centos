@@ -59,6 +59,5 @@ CMD [ "python", "server.py" ]
 
 # COMMANDS to build and run
 # ===============================
-# mkdir build && cp Dockerfile build/ && cd build
-# docker build -t syntaxnet .
-# docker run syntaxnet
+# docker build -t mysyntaxnet001 .
+# docker run mysyntaxnet001
